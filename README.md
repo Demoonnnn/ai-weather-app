@@ -37,7 +37,7 @@ weather-app/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ai-weather-app.git
+git clone https://github.com/Demoonnnn/ai-weather-app.git
 cd ai-weather-app
 
 2. Install backend dependencies
